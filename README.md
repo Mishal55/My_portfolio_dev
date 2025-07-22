@@ -11,12 +11,3 @@ A modern and responsive web application built with **React**, **TypeScript**, **
 - 🎨 Tailwind CSS – Utility-first CSS framework
 - 🧩 shadcn/ui – Accessible and customizable UI components
 
-## 🛠️ Getting Started
-
-To run this project locally, follow the steps below:
-
-### 1. Clone the repository
-
-```bash
-git clone <your-git-url>
-cd <project-name>
