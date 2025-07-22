@@ -1,3 +1,4 @@
+<img width="1898" height="914" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/465217e1-18ad-4cb8-8127-c35ec066b8f3" />
 # 🌟 Project Title
 
 A modern and responsive web application built with **React**, **TypeScript**, **Tailwind CSS**, and **shadcn-ui**, using **Vite** as the build tool.
